@@ -881,17 +881,7 @@ def process_query(
     progress_callback: Optional[ProgressCallback] = None
 ) -> QueryResult:
     """
-    Process a natural language query.
-    
-    Args:
-        agent_service: AgentService instance
-        kg_id: Knowledge Graph ID
-        user_query: Natural language query
-        clarifications: Optional clarification responses
-        progress_callback: Optional callback for progress updates
-    
-    Returns:
-        QueryResult with data or error
+        Process a natural language query.
     """
     callback = progress_callback or _default_progress_callback
     
