@@ -20,8 +20,7 @@
 ---
 
 ## System Architecture
-
-![CortexKG — Adaptive Database Agent](cortexkg_diagram.png)
+![alt text](image.png)
 
 The diagram above shows the full system: **KG Build**, **Load KG from PostgreSQL into memory**, **Agent 1 (SchemaSelectorAgent)**, **Agent 2 (SQLGeneratorAgent)**, **Agent 3 (ExecutorValidatorAgent)**, **Error Summary Management**, **Inference Workflow**, and **Feedback Workflow** — all orchestrated by a LangGraph state machine.
 
