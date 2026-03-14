@@ -177,7 +177,6 @@ CHROMA_PERSIST_DIR=./chroma_db
 ### Install & Migrate
 
 ```bash
-pip install -r requirements.txt
 
 # Run Alembic migrations against kg_storage_db
 alembic upgrade head
