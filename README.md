@@ -11,11 +11,11 @@
 | Part 1 | Building an Adaptive Database Agent: CortexKG — A Multi-Agent System That Learns from Mistakes | https://medium.com/@govindarajpriyanthan/building-an-adaptive-database-agent-cortexkg-a-multi-agent-system-that-learns-from-mistakes-32f183329cfd |
 | Part 2 | CortexKG — Part 2 | https://medium.com/@govindarajpriyanthan/building-an-adaptive-database-agent-cortexkg-a-multi-agent-system-that-learns-from-mistakes-part-c292c14f43f9 |
 | Part 3 | CortexKG — Part 3 | https://medium.com/@govindarajpriyanthan/building-an-adaptive-database-agent-cortexkg-a-multi-agent-system-that-learns-from-mistakes-f899d31b8eae |
-| Part 4 | *(Coming soon)* | — |
-| Part 5 | *(Coming soon)* | — |
-| Part 6 | *(Coming soon)* | — |
-| Part 7 | *(Coming soon)* | — |
-| Part 8 | *(Coming soon)* | — |
+| Part 4 | CortexKG — Part 4 | https://medium.com/@govindarajpriyanthan/building-an-adaptive-database-agent-cortexkg-a-multi-agent-system-that-learns-from-mistakes-72f63c039991 |
+| Part 5 | CortexKG — Part 5 | https://medium.com/@govindarajpriyanthan/building-an-adaptive-database-agent-cortexkg-a-multi-agent-system-that-learns-from-mistakes-d1e9b3d949b2 |
+| Part 6 | CortexKG — Part 6 | https://medium.com/@govindarajpriyanthan/building-an-adaptive-database-agent-cortexkg-a-multi-agent-system-that-learns-from-mistakes-9f76a06dfec6 |
+| Part 7 | CortexKG — Part 7 | https://medium.com/@govindarajpriyanthan/building-an-adaptive-database-agent-cortexkg-a-multi-agent-system-that-learns-from-mistakes-ddad3c3451d4 |
+| Part 8 | CortexKG — Part 8 | https://medium.com/@govindarajpriyanthan/building-an-adaptive-database-agent-cortexkg-a-multi-agent-system-that-learns-from-mistakes-5dc330117067 |
 
 ---
 
